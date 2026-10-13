@@ -46,7 +46,7 @@ The study covers five cases: four learning projects, on southern Norway, Earth's
 | Geology of Germany | version 1 | 9,682 | 25 | 0 |
 | Volcanology, stage 1 | version 4 | 19,519 | 38 | 0 |
 
-- All seven learning paths checked, among them three versions of the path on southern Norway, passed the check script; three passed only after chapters that are not learning material had been named as exclusions.
+- All six learning paths checked, among them two versions of the path on southern Norway, passed the check script; three passed only after chapters that are not learning material had been named as exclusions.
 - The learning records hold 25 sessions on two cases, 23 of them entirely in a voice call, with 75 questions: 29 answered correctly, 19 partially correctly and 27 not correctly. Two review sessions were completed.
 - Incidents in building learning paths and in sessions produced new rules for the assistant. In the narrative version, for example, all questions were asked as worded only once they were shown in the text chat before each call.
 - By the learner's own account, sessions of five to ten minutes let him learn on the move and in short breaks, and his motivation to learn again grew.
